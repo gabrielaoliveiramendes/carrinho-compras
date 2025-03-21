@@ -1,5 +1,6 @@
 # Carrinho de Compras
 Este projeto simula um carrinho de compras online, permitindo aos usuários adicionar produtos e visualizar o total da compra. A interatividade principal da aplicação é construída com JavaScript, que manipula o DOM para criar uma experiência dinâmica e responsiva.
+Foi implementado sobre uma base já existente, que incluía a estrutura HTML e o design CSS da aplicação, a lógica JavaScript.
 
 ## Funcionalidades JavaScript
 As principais características do código JavaScript incluem:
